@@ -2,15 +2,17 @@
 
 Article: "Searching Crowd Knowledge to Recommend Solutions for API Usage Tasks" - Online Appendix
 
-This web page is a companion to our Journal of Software: Evolution and Process (JSEP) submission.
+This web page is a companion to our Journal of Software: Evolution and Process (JSEP 2016) submission.
+
+Link: https://onlinelibrary.wiley.com/doi/full/10.1002/smr.1800
 
 # Authors:
 
 Eduardo C. Campos (eccampos@ufu.br)
 
-Lucas B. L. de Souza 
+Lucas B. L. de Souza (lucas.facom.ufu@gmail.com)
 
-Marcelo de A. Maia
+Marcelo de A. Maia (marcelo.maia@ufu.br)
 
 # Source Code
 
